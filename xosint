@@ -1,3 +1,9 @@
+
+cd $HOME
+git clone https://github.com/TermuxHackz/X-osint
+cd X-osint
+chmod +x *
+bash setup.sh
 #!/usr/bin/python3
 
 
